@@ -1,0 +1,326 @@
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 27.07s, ave time: 5.41s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 44.60s, ave time: 8.92s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 26.97s, ave time: 5.39s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 25.54s, ave time: 5.11s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 44.07s, ave time: 8.81s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 26.00s, ave time: 5.20s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 24.97s, ave time: 4.99s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 43.90s, ave time: 8.78s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 26.92s, ave time: 5.38s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 25.63s, ave time: 5.13s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 46.29s, ave time: 9.26s
+
+
+Evaluation:
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 335.86s, ave time: 67.17s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 335.04s, ave time: 67.01s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 352.19s, ave time: 70.44s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 246.27s, ave time: 49.25s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 28.89s, ave time: 5.78s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 2.70s, ave time: 0.54s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 2.89s, ave time: 0.58s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 30.07s, ave time: 6.01s
+
+
+Evaluation:
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 254.25s, ave time: 50.85s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 253.64s, ave time: 50.73s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 26.82s, ave time: 5.36s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 28.11s, ave time: 5.62s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 26.97s, ave time: 5.39s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 28.18s, ave time: 5.64s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 52.93s, ave time: 10.59s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 29.54s, ave time: 5.91s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 38.90s, ave time: 7.78s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 53.94s, ave time: 10.79s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 32.83s, ave time: 6.57s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 31.46s, ave time: 6.29s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 47.52s, ave time: 9.50s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 27.43s, ave time: 5.49s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 44.71s, ave time: 8.94s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 27.55s, ave time: 5.51s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 31.38s, ave time: 6.28s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 31.54s, ave time: 6.31s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 26.67s, ave time: 5.33s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 31.51s, ave time: 6.30s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 34.33s, ave time: 6.87s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 32.45s, ave time: 6.49s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 47.67s, ave time: 9.53s
+
+
+Evaluation:
+
+Evaluation:
+
+Evaluation:
+
+Evaluation:
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 111.95s, ave time: 111.95s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 113.43s, ave time: 113.43s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 109.47s, ave time: 109.47s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 225.73s, ave time: 225.73s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 110.07s, ave time: 110.07s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 110.71s, ave time: 110.71s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 119.18s, ave time: 119.18s
+
+
+Evaluation:
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 114.56s, ave time: 114.56s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 114.79s, ave time: 114.79s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 128.64s, ave time: 64.32s
+
+
+Evaluation:
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 404.96s, ave time: 16.20s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 26.68s, ave time: 5.34s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 26.66s, ave time: 5.33s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 39.00s, ave time: 7.80s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 38.88s, ave time: 7.78s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 46.88s, ave time: 7.81s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 52.35s, ave time: 8.73s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 26.76s, ave time: 4.46s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 144.80s, ave time: 24.13s
+
+
+Evaluation:
+[MyImage x2]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 150.83s, ave time: 25.14s
+

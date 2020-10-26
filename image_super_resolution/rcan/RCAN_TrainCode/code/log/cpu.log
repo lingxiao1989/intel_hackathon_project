@@ -1,0 +1,14 @@
+Preparing seperated binary files
+Making model...
+Loading model from /home/huang/release/rcan/models_ECCV2018RCAN/RCAN_BIX2.pt
+
+Evaluation:
+  0%|                                                     | 0/5 [00:00<?, ?it/s]lr  torch.float32
+ 20%|█████████                                    | 1/5 [00:13<00:54, 13.67s/it]lr  torch.float32
+ 40%|██████████████████                           | 2/5 [00:27<00:40, 13.58s/it]lr  torch.float32
+ 60%|███████████████████████████                  | 3/5 [00:42<00:28, 14.21s/it]lr  torch.float32
+ 80%|████████████████████████████████████         | 4/5 [00:54<00:13, 13.45s/it]lr  torch.float32
+100%|█████████████████████████████████████████████| 5/5 [01:10<00:00, 14.37s/it]100%|█████████████████████████████████████████████| 5/5 [01:10<00:00, 14.18s/it]
+[DIV2K x2]	PSNR: 18.439 (Best: 18.439 @epoch 1)
+Total time: 70.92s
+
