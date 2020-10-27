@@ -1,7 +1,9 @@
 # RCAN TEST
 
-iThis repository is for RCAN introduced in the following paper:
+This repository is for RCAN introduced in the following paper:
 Yulun Zhang, Kunpeng Li, Kai Li, Lichen Wang, Bineng Zhong, and Yun Fu, "Image Super-Resolution Using Very Deep Residual Channel Attention Networks", ECCV 2018, [[arXiv]][1]
+
+
 source link: https://github.com/yulunzhang/RCAN
 
 ## introduction
