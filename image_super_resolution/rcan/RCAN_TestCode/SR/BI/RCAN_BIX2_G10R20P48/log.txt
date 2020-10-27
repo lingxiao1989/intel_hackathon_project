@@ -1,0 +1,5 @@
+
+Evaluation:
+[DIV2K x2]	PSNR: 22.076 (Best: 22.076 @epoch 1)
+Total time: 0.00s, ave time: -0.00s
+

@@ -1,0 +1,18 @@
+Preparing seperated binary files
+Making model...
+Loading model from /home/huang/release/rcan/models_ECCV2018RCAN/RCAN_BIX2.pt
+
+/*********************************************************
+ ** The values of all available launch options for IPEX **
+ ** IPEX_VERBOSE: 0
+ ** IPEX_FORCE_SYNC: 0
+ ** IPEX_DISABLE_PROFILING: 0
+ ** IPEX_LAZY_REORDER: 0
+ ** IPEX_WEIGHT_CACHE: 0
+ *********************************************************/
+
+Evaluation:
+  0%|                                                     | 0/5 [00:00<?, ?it/s] 20%|█████████                                    | 1/5 [00:27<01:49, 27.38s/it] 40%|██████████████████                           | 2/5 [00:47<01:15, 25.12s/it] 60%|███████████████████████████                  | 3/5 [01:12<00:50, 25.05s/it] 80%|████████████████████████████████████         | 4/5 [01:32<00:23, 23.77s/it]100%|█████████████████████████████████████████████| 5/5 [01:54<00:00, 23.22s/it]100%|█████████████████████████████████████████████| 5/5 [01:54<00:00, 22.96s/it]
+[DIV2K x2]	PSNR: 18.446 (Best: 18.446 @epoch 1)
+Total time: 114.81s
+
